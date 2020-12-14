@@ -1,5 +1,5 @@
-## [New URL](https://shmac.netlify.app/)
-
-The State High Model Aeronautics Club has changed its url
-
-Thanks and have a nice day!
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Redirecting to https://shmac.netlify.app/</title>
+<meta http-equiv="refresh" content="0; URL=https://shmac.netlify.app/">
+<link rel="canonical" href="https://shmac.netlify.app/">
