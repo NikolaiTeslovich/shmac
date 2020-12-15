@@ -1,2 +1,2 @@
 # shmac
-to redirect from the old website to the new one
+A simple html page for redirecting from the old website url to the new one
